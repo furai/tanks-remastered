@@ -1,4 +1,4 @@
 tanks-remastered
 ================
 
-Game written in love.
+This is an attempt to write classic tanks in love2d.
